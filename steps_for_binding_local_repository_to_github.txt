@@ -35,5 +35,7 @@ git remote add origin git@github.com:aavvnn/y_practical_work_1.git
 origin  git@github.com:aavvnn/y_practical_work_1.git (fetch)
 origin  git@github.com:aavvnn/y_practical_work_1.git (push)
 
+7. Потом отправляем изменения - push на гитхаб. Первый раз это надо делать длинной командой:
+$ git push -u origin main (если ошибка, то вместо main пишем master)
 
 6. Далее можно просто вводить git push и наш локальный репозиторий будет забрасываться на гитхаб.
