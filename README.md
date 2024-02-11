@@ -18,7 +18,8 @@ graph LR;
 
 
 
-```
+```mermaid
+graph LR;
 %% это комментарий: 
   modified --> staged --> commited;
 ``` 
